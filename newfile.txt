@@ -1,2 +1,6 @@
 ## Content
 ##Change
+Your answer for What is the difference between add, commit, and push?
+Git add is like a saving point of your work.
+After the commit, it means programmer commit the code as truth.
+For the push, it only push(upload) code after the add&commit. Which means the programmer is pushing the true code to other workers.
